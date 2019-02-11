@@ -42,7 +42,5 @@ function itemTemplate(itemName) {
       .toggleClass("shopping-item__checked");
   });
   
-  $(shoppingList);
-  
   
   
